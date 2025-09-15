@@ -1,0 +1,51 @@
+{
+    "headerMarquee": {
+        "items": [
+            {
+                "text": "Uncover proof of Appinventiv's impact across 3000+ digital deliveries for 35+ industries.",
+                "url": "#",
+                "btnText": "EXPLORE NOW!"
+            },
+            {
+                "text": "Uncover proof of Appinventiv's impact across 3000+ digital deliveries for 35+ industries.",
+                "url": "#",
+                "btnText": "EXPLORE NOW!"
+            }
+        ],
+        "contact": {
+            "contactBtnText": "Contact Us",
+            "contactBtnLink": "#"
+        }
+    },
+    "heroSection": {
+        "backgroundVideo": "/assets/home/hero/herovideo.webm",
+        "heading": "Engineering Global Digital Disruption with AI-Native Solutions",
+        "description": "We are a Deloitte Technology Fast 50 company and a Clutch Global Award 2025 winner for unmatched customer excellence. Our mission is to leverage AI-driven automation and strategic innovation to craft digital solutions that not only meet but anticipate your business needs, ensuring sustainable market leadership.",
+        "buttonText": "Consult Our Experts",
+        "buttonLink": "#"
+    },
+    "awardSection": {
+        "awards": [
+            {
+                "name": "Deloitte Technology Fast 50",
+                "image": "/assets/home/awards/deloitte-2024.svg"
+            },
+            {
+                "name": "Entrepreneur Award",
+                "image": "/assets/home/awards/entrepreneur-award-logo.svg"
+            },
+            {
+                "name": "Economictimes Award",
+                "image": "/assets/home/awards/economictimes-badge.svg"
+            },
+            {
+                "name": "Times Business Award",
+                "image": "/assets/home/awards/timesbusiness-badge.svg"
+            },
+            {
+                "name": "Clutch Global Award",
+                "image": "/assets/home/awards/clutch-badge-top-100.svg"
+            }
+        ]
+    }
+}
