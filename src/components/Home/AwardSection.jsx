@@ -5,7 +5,7 @@ const AwardSection = () => {
     const awards = homeData.awardSection.awards;
 
     return (
-        <div className="py-5 bg-black">
+        <div className="py-8 bg-black">
             <div className="flex max-md:flex-col flex-wrap justify-center
              items-center gap-8">
                 {awards.map((award, idx) => (

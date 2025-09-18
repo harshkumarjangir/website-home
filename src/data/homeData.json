@@ -1,51 +1,422 @@
 {
-    "headerMarquee": {
-        "items": [
-            {
-                "text": "Uncover proof of Appinventiv's impact across 3000+ digital deliveries for 35+ industries.",
-                "url": "#",
-                "btnText": "EXPLORE NOW!"
-            },
-            {
-                "text": "Uncover proof of Appinventiv's impact across 3000+ digital deliveries for 35+ industries.",
-                "url": "#",
-                "btnText": "EXPLORE NOW!"
-            }
-        ],
-        "contact": {
-            "contactBtnText": "Contact Us",
-            "contactBtnLink": "#"
-        }
-    },
-    "heroSection": {
-        "backgroundVideo": "/assets/home/hero/herovideo.webm",
-        "heading": "Engineering Global Digital Disruption with AI-Native Solutions",
-        "description": "We are a Deloitte Technology Fast 50 company and a Clutch Global Award 2025 winner for unmatched customer excellence. Our mission is to leverage AI-driven automation and strategic innovation to craft digital solutions that not only meet but anticipate your business needs, ensuring sustainable market leadership.",
-        "buttonText": "Consult Our Experts",
-        "buttonLink": "#"
-    },
-    "awardSection": {
-        "awards": [
-            {
-                "name": "Deloitte Technology Fast 50",
-                "image": "/assets/home/awards/deloitte-2024.svg"
-            },
-            {
-                "name": "Entrepreneur Award",
-                "image": "/assets/home/awards/entrepreneur-award-logo.svg"
-            },
-            {
-                "name": "Economictimes Award",
-                "image": "/assets/home/awards/economictimes-badge.svg"
-            },
-            {
-                "name": "Times Business Award",
-                "image": "/assets/home/awards/timesbusiness-badge.svg"
-            },
-            {
-                "name": "Clutch Global Award",
-                "image": "/assets/home/awards/clutch-badge-top-100.svg"
-            }
-        ]
+  "headerMarquee": {
+    "items": [
+      {
+        "text": "Uncover proof of Appinventiv's impact across 3000+ digital deliveries for 35+ industries.",
+        "url": "#",
+        "btnText": "EXPLORE NOW!"
+      },
+      {
+        "text": "Uncover proof of Appinventiv's impact across 3000+ digital deliveries for 35+ industries.",
+        "url": "#",
+        "btnText": "EXPLORE NOW!"
+      }
+    ],
+    "contact": {
+      "contactBtnText": "Contact Us",
+      "contactBtnLink": "#"
     }
+  },
+  "heroSection": {
+    "backgroundVideo": "/assets/home/hero/herovideo.webm",
+    "heading": "Engineering Global Digital Disruption with AI-Native Solutions",
+    "description": "We are a Deloitte Technology Fast 50 company and a Clutch Global Award 2025 winner for unmatched customer excellence. Our mission is to leverage AI-driven automation and strategic innovation to craft digital solutions that not only meet but anticipate your business needs, ensuring sustainable market leadership.",
+    "buttonText": "Consult Our Experts",
+    "buttonLink": "#"
+  },
+  "awardSection": {
+    "awards": [
+      {
+        "name": "Deloitte Technology Fast 50",
+        "image": "/assets/home/awards/deloitte-2024.svg"
+      },
+      {
+        "name": "Entrepreneur Award",
+        "image": "/assets/home/awards/entrepreneur-award-logo.svg"
+      },
+      {
+        "name": "Economictimes Award",
+        "image": "/assets/home/awards/economictimes-badge.svg"
+      },
+      {
+        "name": "Times Business Award",
+        "image": "/assets/home/awards/timesbusiness-badge.svg"
+      },
+      {
+        "name": "Clutch Global Award",
+        "image": "/assets/home/awards/clutch-badge-top-100.svg"
+      }
+    ]
+  },
+  "statsSection": {
+    "title": "Transforming Businesses with AI-Driven Technology That Transcends Geographies and Platforms",
+    "description": "Appinventiv is one of the world's largest AI-led IT service providers helping companies redefine their digital possibilities for nearly a decade now. With our team of 1600+ tech evangelists, we are building the digital infrastructure of our clients using intelligent, AI-native solutions, positioning them to be the market leaders of their respective industries.",
+    "stats": [
+      {
+        "count": "35+",
+        "title": "Industries Mastered",
+        "description": "With our agility & engineering expertise, we equip your critical business functions with customized tech, and expand digital capabilities."
+      },
+      {
+        "count": "1600+",
+        "title": "Tech Evangelists",
+        "description": "We are a dynamic team of certified cloud architects, data scientists, and AI/ML specialists passionately driven to achieve the best results for our clients."
+      },
+      {
+        "count": "150+",
+        "title": "AI Models Deployed",
+        "description": "From predictive analytics to generative AI, we've implemented intelligent models that drive measurable ROI."
+      },
+      {
+        "count": "3000+",
+        "title": "Solutions Designed And Delivered",
+        "description": "We have empowered businesses with thousands of successful futuristic and AI-augmented solutions that have helped them grow and scale."
+      },
+      {
+        "count": "500+",
+        "title": "Legacy Processes Transformed",
+        "description": "We help businesses achieve their digital transformation goals by seamlessly integrating advanced technologies into their legacy systems."
+      },
+      {
+        "count": "05+",
+        "title": "Strategic Federal Partnerships",
+        "description": "We drive collaborative initiatives that address critical challenges and deliver impactful solutions."
+      }
+    ]
+  },
+  "impactBanner": {
+    "text": "Ready to innovate and drive an impact?",
+    "buttonText": "Partner With Us",
+    "buttonLink": "#"
+  },
+  "caseStudySection": [
+    {
+      "company": "Adidas",
+      "description": "Crafting innovation for the consumer markets with Adidas",
+      "result": "Result",
+      "stats": [
+        {
+          "count": "5M+",
+          "title": "App downloads"
+        },
+        {
+          "count": "5M+",
+          "title": "App downloads"
+        }
+      ],
+      "buttonText": "View case study",
+      "buttonLink": "#",
+      "image": "/assets/home/caseStudy/showcase-adidas.webp"
+    },
+    {
+      "company": "IKEA",
+      "description": "Revolutionizing home solutions for millions with IKEA",
+      "result": "Result",
+      "stats": [
+        {
+          "count": "3M+",
+          "title": "App downloads"
+        },
+        {
+          "count": "2M+",
+          "title": "Active users"
+        }
+      ],
+      "buttonText": "View case study",
+      "buttonLink": "#",
+      "image": "/assets/home/caseStudy/showcase-ikea.webp"
+    },
+    {
+      "company": "Pizza Hut",
+      "description": "Delivering seamless food ordering experience with Pizza Hut",
+      "result": "Result",
+      "stats": [
+        {
+          "count": "7M+",
+          "title": "Orders processed"
+        },
+        {
+          "count": "4M+",
+          "title": "Active users"
+        }
+      ],
+      "buttonText": "View case study",
+      "buttonLink": "#",
+      "image": "/assets/home/caseStudy/showcase-pizzahut.webp"
+    },
+    {
+      "company": "Americana",
+      "description": "Empowering next-gen tech solutions for Americana",
+      "result": "Result",
+      "stats": [
+        {
+          "count": "1M+",
+          "title": "Solutions delivered"
+        },
+        {
+          "count": "500K+",
+          "title": "Active users"
+        }
+      ],
+      "buttonText": "View case study",
+      "buttonLink": "#",
+      "image": "/assets/home/caseStudy/americana-portfolio-img.webp"
+    }
+  ],
+  "testimonialSection": {
+    "heading": "Our Clients Are Our Superheroes. We Prioritize Delivering Excellent Products, Thorough Training, And Optimal Execution",
+    "buttonText": "View All Testimonials",
+    "buttonLink": "#",
+    "items": [
+      {
+        "name": "Edgar",
+        "position": "CEO, Street Smart 242",
+        "videoUrl": "/assets/home/testimonial/tourist-testimonial.mp4"
+      },
+      {
+        "name": "Tushar Patel",
+        "position": "CEO, DoList App",
+        "videoUrl": "/assets/home/testimonial/tourist-testimonial.mp4"
+      },
+      {
+        "name": "Daniel Zukich",
+        "position": "Co-founder, Plandid",
+        "videoUrl": "/assets/home/testimonial/tourist-testimonial.mp4"
+      },
+      {
+        "name": "Fred McCaw",
+        "position": "CEO, McCaw Digital LLC",
+        "videoUrl": "/assets/home/testimonial/tourist-testimonial.mp4"
+      }
+    ]
+  },
+  "servicesSection": {
+    "title": "Navigate the Digital Frontier with Our Engineering Excellence",
+    "buttonText": "Our Services",
+    "buttonUrl": "#",
+    "items": [
+      {
+        "icon": "BrainCircuit",
+        "title": "AI Development Services",
+        "description": "We engineer bespoke AI solutions, from Large Language Models (LLMs) to Machine Learning (ML) applications, helping you explore new opportunities for automation, insights, and innovation."
+      },
+      {
+        "icon": "Smartphone",
+        "title": "Mobile App Development",
+        "description": "We build intelligent mobile apps with Generative UX Design and AI-Powered Personalization to enhance user engagement."
+      },
+      {
+        "icon": "Code",
+        "title": "Software Development",
+        "description": "From custom development to system upgrades, we ensure AI-Native Development and an AI-Augmented SDLC to craft software that enhances operational efficiency and drives innovation."
+      },
+      {
+        "icon": "Workflow",
+        "title": "Digital Transformation",
+        "description": "We help businesses stay competitive by transforming legacy systems with AI-driven automation, modern digital-first solutions, and Intelligent Process Automation."
+      },
+      {
+        "icon": "Lightbulb",
+        "title": "Ideation And Design Strategy",
+        "description": "Our strategic ideation and design processes, powered by AI-Driven Market Analysis and Generative Design, ensure that your digital products are not only functional but also deeply resonate with users."
+      },
+      {
+        "icon": "Monitor",
+        "title": "IT Consulting",
+        "description": "We provide expert IT consulting services supported by AI-Powered IT Strategy and Predictive Analytics to help your organization navigate complex technology decisions and align IT strategies with business objectives."
+      },
+      {
+        "icon": "Infinity",
+        "title": "DevOps",
+        "description": "Our DevOps services streamline development and operations to accelerate your project timelines and improve overall product quality through intelligent automation and proactive insights."
+      },
+      {
+        "icon": "Cloud",
+        "title": "Cloud Managed Services",
+        "description": "We manage your cloud infrastructure end-to-end, using AI-Optimized Cloud Management and AIOps to ensure it is optimized, secure, and cost-effective; allowing you to focus on strategic business activities."
+      }
+    ]
+  },
+  "roiSection": {
+    "title": "The ROI of Intelligence",
+    "buttonText": "Talk to our Expert",
+    "buttonUrl": "#",
+    "items": [
+      {
+        "icon": "Rocket",
+        "label": "EFFICIENCY",
+        "title": "Automate Processes",
+        "description": "Cut operational costs by up to **30%** with AI-driven workflow automation."
+      },
+      {
+        "icon": "BarChart",
+        "label": "GROWTH",
+        "title": "Personalize Experiences",
+        "description": "Increase customer LTV (lifetime value) by **25%** through ML-powered personalization."
+      },
+      {
+        "icon": "Lightbulb",
+        "label": "INNOVATION",
+        "title": "Accelerate Discovery",
+        "description": "Reduce R&D cycles by **50%** using Generative AI for prototyping and simulation."
+      }
+    ]
+  },
+  "innovationSection": {
+    "title": "We Create New Solutions and Transform Existing Ones with Technologies That Beat Industry-Best Timelines",
+    "cta": {
+      "title": "Fuel Your Digital-First Idea",
+      "subtitle": "With 1600+ Transformation Experts",
+      "buttonText": "Innovate With Us",
+      "buttonUrl": "#"
+    },
+    "items": [
+      {
+        "link": "#",
+        "icon": "Cpu",
+        "title": "Artificial Intelligence",
+        "description": "We leverage AI to craft intelligent solutions that streamline operations and enhance decision-making capabilities."
+      },
+      {
+        "link": "#",
+        "icon": "Sparkles",
+        "title": "Generative AI",
+        "description": "We utilize Generative AI technology to create solutions that produce new content, automate creative processes and enhance user experiences."
+      },
+      {
+        "link": "#",
+        "icon": "BrainCircuit",
+        "title": "Machine Learning",
+        "description": "We use ML to build intelligent systems that analyze data patterns and predict outcomes while continuously improving operations."
+      },
+      {
+        "link": "#",
+        "icon": "Eye",
+        "title": "Computer Vision",
+        "description": "We employ computer vision to analyze visual data, automate image processing tasks and enhance the accuracy and speed of visual recognition systems."
+      },
+      {
+        "link": "#",
+        "icon": "Cpu",
+        "title": "Artificial Intelligence",
+        "description": "We leverage AI to craft intelligent solutions that streamline operations and enhance decision-making capabilities."
+      },
+      {
+        "link": "#",
+        "icon": "Sparkles",
+        "title": "Generative AI",
+        "description": "We utilize Generative AI technology to create solutions that produce new content, automate creative processes and enhance user experiences."
+      },
+      {
+        "link": "#",
+        "icon": "BrainCircuit",
+        "title": "Machine Learning",
+        "description": "We use ML to build intelligent systems that analyze data patterns and predict outcomes while continuously improving operations."
+      },
+      {
+        "link": "#",
+        "icon": "Eye",
+        "title": "Computer Vision",
+        "description": "We employ computer vision to analyze visual data, automate image processing tasks and enhance the accuracy and speed of visual recognition systems."
+      }
+    ]
+  },
+  "aiAdvisorySection": {
+    "icon": "Sparkles",
+    "title": "InventivAI",
+    "description": "The future of business is intelligent. But navigating AI, from Large Language Models to MLOps, is complex. Explore our resources, talk to our certified AI specialists, and build your roadmap for an AI-native future.",
+    "buttonText": "Book AI Advisory Session",
+    "buttonUrl": "#",
+    "image": "/assets/home/aiadvisory/ai-advisory.webp"
+  },
+  "partnershipSection": {
+    "title": "Our Partnerships Have Transformed How You Experience These Global Leaders",
+    "logos": [
+      {
+        "name": "IKEA",
+        "src": "/assets/home/partnership/ikea-logo-color.svg"
+      },
+      {
+        "name": "Google",
+        "src": "/assets/home/partnership/google-logo-color.svg"
+      },
+      {
+        "name": "BCG",
+        "src": "/assets/home/partnership/bcc-logo-color.svg"
+      },
+      {
+        "name": "KFC",
+        "src": "/assets/home/partnership/ikea-logo-color.svg"
+      },
+      {
+        "name": "TGI Fridays",
+        "src": "/assets/home/partnership/friday-logo-color.svg"
+      },
+      {
+        "name": "Moo",
+        "src": "/assets/home/partnership/ikea-logo-color.svg"
+      },
+      {
+        "name": "Krispy Kreme",
+        "src": "/assets/home/partnership/ikea-logo-color.svg"
+      },
+      {
+        "name": "Hardee's",
+        "src": "/assets/home/partnership/ikea-logo-color.svg"
+      },
+      {
+        "name": "Bajaj Allianz",
+        "src": "/assets/home/partnership/ikea-logo-color.svg"
+      },
+      {
+        "name": "Domino's",
+        "src": "/assets/home/partnership/domin-logo-color.svg"
+      },
+      {
+        "name": "SuperShe",
+        "src": "/assets/home/partnership/ikea-logo-color.svg"
+      },
+      {
+        "name": "Wimpy",
+        "src": "/assets/home/partnership/ikea-logo-color.svg"
+      },
+      {
+        "name": "Empire Hotels",
+        "src": "/assets/home/partnership/ikea-logo-color.svg"
+      },
+      {
+        "name": "JobGet",
+        "src": "/assets/home/partnership/ikea-logo-color.svg"
+      },
+      {
+        "name": "Asian Bank",
+        "src": "/assets/home/partnership/ikea-logo-color.svg"
+      }
+    ]
+  },
+  "accoladesSection": {
+    "title": "Our Growth Journey As A Mobile App Development Company Has Bagged A Few Reputed Accolades As Well",
+    "awards": [
+      {
+        "year": "2020",
+        "title": "App Development Company Of The Year",
+        "logo": "/awards/entrepreneur.png"
+      },
+      {
+        "year": "2025",
+        "title": "Leader in AI Product Engineering & Digital Transformation",
+        "logo": "/awards/et-leadership.png"
+      },
+      {
+        "year": "2025",
+        "title": "Fastest-Growing Company",
+        "logo": "/awards/clutch-fastest.png"
+      },
+      {
+        "year": "2025",
+        "title": "Top Android & Chatbot Development Company",
+        "logo": "/awards/clutch-global.png"
+      }
+    ]
+  }
 }
