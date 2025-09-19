@@ -54,7 +54,7 @@ const InnovationSection = () => {
                                 <div
                                     className="flex items-center justify-between mb-0">
                                     <div className="flex items-center space-x-2">
-                                        <span className="group-hover:transform group-hover:translate-x-3 transition-transform duration-500">{icons[item.icon]}</span>
+                                        <span className="group-hover:transform md:group-hover:translate-x-3 transition-transform duration-500">{icons[item.icon]}</span>
                                         <h3 className="text-lg font-semibold ml-2">{item.title}</h3>
                                     </div>
                                     <ChevronRight

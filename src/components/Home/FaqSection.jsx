@@ -13,26 +13,28 @@ const FaqSection = () => {
     };
 
     return (
-        <section className="py-16 px-6 md:px-16 max-w-6xl mx-auto">
-            <h2 className="text-3xl md:text-4xl font-bold text-center mb-12">
-                Frequently Asked Questions
+        <section className="py-16 px-6 md:px-16 mx-auto border-b-6 border-[#1163FB]">
+            <h2 className="text-3xl md:text-4xl font-semibold text-center mb-12">
+                {homeData.faqsSection.title}
             </h2>
+
+            {/* FAQ List */}
             <div className="grid md:grid-cols-2 gap-6 items-start">
-                {homeData.faqs.map((faq, index) => (
+                {homeData.faqsSection.faqs.map((faq, index) => (
                     <div
                         key={index}
                         className="bg-indigo-50 p-6 rounded-2xl shadow-sm flex flex-col"
                     >
                         {/* Question Row */}
                         <button
-                            className="flex items-center justify-between w-full text-left"
+                            className="flex items-center justify-between w-full text-left hover:text-[#1D6DFB] transition-colors duration-200 tracking-wide cursor-pointer"
                             onClick={() => toggleFAQ(index)}
                         >
-                            <span className="text-lg font-medium">{faq.question}</span>
+                            <span className="text-lg font-medium w-[90%]">{faq.question}</span>
                             {activeIndex === index ? (
-                                <ChevronUp className="w-5 h-5" />
+                                <ChevronUp className="w-8 h-8" />
                             ) : (
-                                <ChevronDown className="w-5 h-5" />
+                                <ChevronDown className="w-8 h-8" />
                             )}
                         </button>
 

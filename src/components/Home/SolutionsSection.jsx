@@ -21,7 +21,7 @@ const SolutionsSection = () => {
         <section className="py-16 bg-black text-white">
             <div className="mx-auto px-4 relative">
                 {/* Section Title */}
-                <h2 className="text-3xl md:text-4xl font-medium mb-10 max-w-4xl">
+                <h2 className="text-3xl md:text-[40px] font-medium mb-16 max-w-4xl">
                     {title}
                 </h2>
 

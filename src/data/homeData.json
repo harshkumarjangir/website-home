@@ -583,34 +583,38 @@
       }
     ]
   },
-  "faqs": [
-    {
-      "question": "What mobile app development services do you offer?",
-      "answer": "We provide end-to-end mobile app development including design, development, testing, and deployment."
-    },
-    {
-      "question": "What software development services do you offer?",
-      "answer": "With a dedicated team of developers, we offer <ul><li>Software Consulting</li><li>Custom Software Development</li><li>Enterprise Software Development</li><li>API Development</li></ul>"
-    },
-    {
-      "question": "What is the average cost and timeline for developing a mobile app?",
-      "answer": "The cost and timeline depend on complexity, features, and platform. A typical project may take 2–6 months."
-    },
-    {
-      "question": "How do you ensure the security and quality of the software you develop?",
-      "answer": "We follow industry best practices, code reviews, automated testing, and secure deployment strategies."
-    },
-    {
-      "question": "Do you offer app maintenance and support services?",
-      "answer": "Yes, we provide ongoing maintenance, updates, and support to ensure smooth operation."
-    },
-    {
-      "question": "Do you assist with software integration and data migration?",
-      "answer": "Yes, we handle software integrations, legacy migrations, and third-party API connections."
-    }
-  ],
+  "faqsSection": {
+    "title": "Frequently Asked Questions",
+    "faqs": [
+      {
+        "question": "What mobile app development services do you offer?",
+        "answer": "We provide end-to-end mobile app development including design, development, testing, and deployment."
+      },
+      {
+        "question": "What software development services do you offer?",
+        "answer": "With a dedicated team of developers, we offer <ul><li>Software Consulting</li><li>Custom Software Development</li><li>Enterprise Software Development</li><li>API Development</li></ul>"
+      },
+      {
+        "question": "What is the average cost and timeline for developing a mobile app?",
+        "answer": "The cost and timeline depend on complexity, features, and platform. A typical project may take 2–6 months."
+      },
+      {
+        "question": "How do you ensure the security and quality of the software you develop?",
+        "answer": "We follow industry best practices, code reviews, automated testing, and secure deployment strategies."
+      },
+      {
+        "question": "Do you offer app maintenance and support services?",
+        "answer": "Yes, we provide ongoing maintenance, updates, and support to ensure smooth operation."
+      },
+      {
+        "question": "Do you assist with software integration and data migration?",
+        "answer": "Yes, we handle software integrations, legacy migrations, and third-party API connections."
+      }
+    ]
+  },
   "offices": {
     "logo": "/assets/home/globaloffices/app-wht-logo-new.svg",
+    "taglineLogo": "/assets/home/globaloffices/Clutch-Badge-Blue.svg",
     "tagline": "Most trusted Mobile App Consulting Company on Clutch",
     "locations": [
       {
@@ -621,27 +625,27 @@
       {
         "country": "USA",
         "address": "79, Madison Ave, Manhattan, NY 10001, USA",
-        "image": "/assets/home/globaloffices/hq-india.svg"
+        "image": "/assets/home/globaloffices/hq-usa.svg"
       },
       {
         "country": "Australia",
         "address": "96 Cleveland Street, Stones Corner, QLD 4120",
-        "image": "/assets/home/globaloffices/hq-india.svg"
+        "image": "/assets/home/globaloffices/hq-aus-new.svg"
       },
       {
         "country": "UK",
         "address": "3rd Floor, 86-90 Paul Street EC2A 4NE, London, UK",
-        "image": "/assets/home/globaloffices/hq-india.svg"
+        "image": "/assets/home/globaloffices/hq-uk.svg"
       },
       {
         "country": "UAE",
         "address": "Tiger Al Yarmook Building, 13th floor B-block, Al Nahda St - Sharjah",
-        "image": "/assets/home/globaloffices/hq-india.svg"
+        "image": "/assets/home/globaloffices/hq-uae.svg"
       },
       {
         "country": "CANADA",
         "address": "Suite 3810, Bankers Hall West, 888 - 3rd Street Sw, Calgary Alberta",
-        "image": "/assets/home/globaloffices/hq-india.svg"
+        "image": "/assets/home/globaloffices/hq-canada.svg"
       }
     ]
   }
