@@ -4,7 +4,7 @@ const StatsSection = () => {
     const { title, description, stats } = homeData.statsSection;
 
     return (
-        <div className="bg-black text-white py-24 px-6 max-w-7xl mx-auto">
+        <div className="bg-black text-white py-24 px-6 mx-auto">
             <div className="w-full flex flex-col md:flex-row justify-evenly px-4">
                 <h2 className="text-3xl mb-4">{title}</h2>
                 <p className="text-gray-300 md:max-w-1/2 md:mt-5">{description}</p>

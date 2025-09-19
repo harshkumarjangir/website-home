@@ -11,6 +11,11 @@ import RoiSection from "@/components/Home/RoiSection";
 import InnovationSection from "@/components/Home/InnovationSection";
 import AIAdvisorySection from "@/components/Home/AIAdvisorySection";
 import PartnershipSection from "@/components/Home/PartnershipSection";
+import AccoladesSection from "@/components/Home/AccoladesSection";
+import IndustriesSection from "@/components/Home/IndustriesSection";
+import SolutionsSection from "@/components/Home/SolutionsSection";
+import FaqSection from "@/components/Home/FaqSection";
+import GlobalOffices from "@/components/Home/GlobalOffices";
 
 export default function Home() {
   return (
@@ -37,6 +42,11 @@ export default function Home() {
       <InnovationSection />
       <AIAdvisorySection />
       <PartnershipSection />
+      <AccoladesSection />
+      <IndustriesSection />
+      <SolutionsSection />
+      <FaqSection />
+      <GlobalOffices />
     </>
   );
 }

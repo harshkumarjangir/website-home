@@ -400,22 +400,248 @@
       {
         "year": "2020",
         "title": "App Development Company Of The Year",
-        "logo": "/awards/entrepreneur.png"
+        "logo": "/assets/home/accolades/deloitte-2024.svg"
       },
       {
         "year": "2025",
         "title": "Leader in AI Product Engineering & Digital Transformation",
-        "logo": "/awards/et-leadership.png"
+        "logo": "/assets/home/accolades/clutch-badge-top-100.svg"
       },
       {
         "year": "2025",
         "title": "Fastest-Growing Company",
-        "logo": "/awards/clutch-fastest.png"
+        "logo": "/assets/home/accolades/economictimes-badge.svg"
       },
       {
         "year": "2025",
         "title": "Top Android & Chatbot Development Company",
-        "logo": "/awards/clutch-global.png"
+        "logo": "/assets/home/accolades/entrepreneur-award-logo.svg"
+      },
+      {
+        "year": "2020",
+        "title": "App Development Company Of The Year",
+        "logo": "/assets/home/accolades/timesbusiness-badge.svg"
+      },
+      {
+        "year": "2025",
+        "title": "Leader in AI Product Engineering & Digital Transformation",
+        "logo": "/assets/home/accolades/clutch-badge-top-100.svg"
+      },
+      {
+        "year": "2025",
+        "title": "Fastest-Growing Company",
+        "logo": "/assets/home/accolades/deloitte-2024.svg"
+      },
+      {
+        "year": "2025",
+        "title": "Top Android & Chatbot Development Company",
+        "logo": "/assets/home/accolades/clutch-badge-top-100.svg"
+      }
+    ]
+  },
+  "industriesSection": {
+    "title": "A Unified Vision That Caters To | Diverse Industry Demands",
+    "buttonText": "Explore More in Industries",
+    "buttonUrl": "#",
+    "industries": [
+      {
+        "id": 1,
+        "title": "Healthcare",
+        "description": "We develop robust healthcare solutions that improve patient care with AI Diagnostics & Imaging and Predictive Patient Analytics, enhancing the accuracy of diagnostics and streamlining operations.",
+        "icon": "HeartPulse"
+      },
+      {
+        "id": 2,
+        "title": "Finance",
+        "description": "We develop robust healthcare solutions that improve patient care with AI Diagnostics & Imaging and Predictive Patient Analytics, enhancing the accuracy of diagnostics and streamlining operations.",
+        "icon": "Wallet"
+      },
+      {
+        "id": 3,
+        "title": "Restaurant",
+        "description": "We develop robust healthcare solutions that improve patient care with AI Diagnostics & Imaging and Predictive Patient Analytics, enhancing the accuracy of diagnostics and streamlining operations.",
+        "icon": "UtensilsCrossed"
+      },
+      {
+        "id": 4,
+        "title": "eCommerce",
+        "description": "We develop robust healthcare solutions that improve patient care with AI Diagnostics & Imaging and Predictive Patient Analytics, enhancing the accuracy of diagnostics and streamlining operations.",
+        "icon": "ShoppingCart"
+      },
+      {
+        "id": 5,
+        "title": "Electric Vehicle (EV)",
+        "description": "We develop robust healthcare solutions that improve patient care with AI Diagnostics & Imaging and Predictive Patient Analytics, enhancing the accuracy of diagnostics and streamlining operations.",
+        "icon": "Car"
+      },
+      {
+        "id": 6,
+        "title": "SaaS",
+        "description": "We develop robust healthcare solutions that improve patient care with AI Diagnostics & Imaging and Predictive Patient Analytics, enhancing the accuracy of diagnostics and streamlining operations.",
+        "icon": "Cloud"
+      },
+      {
+        "id": 7,
+        "title": "Travel",
+        "description": "We develop robust healthcare solutions that improve patient care with AI Diagnostics & Imaging and Predictive Patient Analytics, enhancing the accuracy of diagnostics and streamlining operations.",
+        "icon": "Plane"
+      },
+      {
+        "id": 8,
+        "title": "Entertainment",
+        "description": "We develop robust healthcare solutions that improve patient care with AI Diagnostics & Imaging and Predictive Patient Analytics, enhancing the accuracy of diagnostics and streamlining operations.",
+        "icon": "Music"
+      },
+      {
+        "id": 9,
+        "title": "Education",
+        "description": "We develop robust healthcare solutions that improve patient care with AI Diagnostics & Imaging and Predictive Patient Analytics, enhancing the accuracy of diagnostics and streamlining operations.",
+        "icon": "BookOpen"
+      },
+      {
+        "id": 10,
+        "title": "Logistics",
+        "description": "We develop robust healthcare solutions that improve patient care with AI Diagnostics & Imaging and Predictive Patient Analytics, enhancing the accuracy of diagnostics and streamlining operations.",
+        "icon": "Truck"
+      },
+      {
+        "id": 11,
+        "title": "Agriculture",
+        "description": "We develop robust healthcare solutions that improve patient care with AI Diagnostics & Imaging and Predictive Patient Analytics, enhancing the accuracy of diagnostics and streamlining operations.",
+        "icon": "Leaf"
+      },
+      {
+        "id": 12,
+        "title": "Sports",
+        "description": "We develop robust healthcare solutions that improve patient care with AI Diagnostics & Imaging and Predictive Patient Analytics, enhancing the accuracy of diagnostics and streamlining operations.",
+        "icon": "Dumbbell"
+      },
+      {
+        "id": 13,
+        "title": "Real Estate",
+        "description": "We develop robust healthcare solutions that improve patient care with AI Diagnostics & Imaging and Predictive Patient Analytics, enhancing the accuracy of diagnostics and streamlining operations.",
+        "icon": "Building"
+      },
+      {
+        "id": 14,
+        "title": "Energy",
+        "description": "We develop robust healthcare solutions that improve patient care with AI Diagnostics & Imaging and Predictive Patient Analytics, enhancing the accuracy of diagnostics and streamlining operations.",
+        "icon": "BatteryCharging"
+      },
+      {
+        "id": 15,
+        "title": "Telecom",
+        "description": "We develop robust healthcare solutions that improve patient care with AI Diagnostics & Imaging and Predictive Patient Analytics, enhancing the accuracy of diagnostics and streamlining operations.",
+        "icon": "Signal"
+      },
+      {
+        "id": 16,
+        "title": "Retail",
+        "description": "We develop robust healthcare solutions that improve patient care with AI Diagnostics & Imaging and Predictive Patient Analytics, enhancing the accuracy of diagnostics and streamlining operations.",
+        "icon": "Store"
+      }
+    ]
+  },
+  "solutionsSection": {
+    "title": "Solving Your Biggest Business Challenges with Advanced Technologies",
+    "items": [
+      {
+        "id": 1,
+        "icon": "Lightbulb",
+        "title": "Market Forecasting & Risk Reduction",
+        "description": "Sales forecasts miss the mark, new products fail, and market entry feels like expensive guessing. AI and predictive analytics give you realistic demand forecasts based on actual market data. One retail client cut inventory waste by 40%."
+      },
+      {
+        "id": 2,
+        "icon": "Lightbulb",
+        "title": "Legacy System Modernization",
+        "description": "IT changes take months, integrations break constantly, and systems hold back growth. Smart automation targets your biggest operational headaches without expensive replacements. Saved a manufacturer $2.3M annually."
+      },
+      {
+        "id": 3,
+        "icon": "Lightbulb",
+        "title": "Smart Manufacturing",
+        "description": "Human inspections miss defects. AI-enabled quality checks improve speed and accuracy while reducing costs. One client cut inspection times by 60%."
+      },
+      {
+        "id": 4,
+        "icon": "Lightbulb",
+        "title": "Smart Manufacturing",
+        "description": "Human inspections miss defects. AI-enabled quality checks improve speed and accuracy while reducing costs. One client cut inspection times by 60%."
+      },
+      {
+        "id": 5,
+        "icon": "Lightbulb",
+        "title": "Legacy System Modernization",
+        "description": "IT changes take months, integrations break constantly, and systems hold back growth. Smart automation targets your biggest operational headaches without expensive replacements. Saved a manufacturer $2.3M annually."
+      },
+      {
+        "id": 6,
+        "icon": "Lightbulb",
+        "title": "Market Forecasting & Risk Reduction",
+        "description": "Sales forecasts miss the mark, new products fail, and market entry feels like expensive guessing. AI and predictive analytics give you realistic demand forecasts based on actual market data. One retail client cut inventory waste by 40%."
+      }
+    ]
+  },
+  "faqs": [
+    {
+      "question": "What mobile app development services do you offer?",
+      "answer": "We provide end-to-end mobile app development including design, development, testing, and deployment."
+    },
+    {
+      "question": "What software development services do you offer?",
+      "answer": "With a dedicated team of developers, we offer <ul><li>Software Consulting</li><li>Custom Software Development</li><li>Enterprise Software Development</li><li>API Development</li></ul>"
+    },
+    {
+      "question": "What is the average cost and timeline for developing a mobile app?",
+      "answer": "The cost and timeline depend on complexity, features, and platform. A typical project may take 2–6 months."
+    },
+    {
+      "question": "How do you ensure the security and quality of the software you develop?",
+      "answer": "We follow industry best practices, code reviews, automated testing, and secure deployment strategies."
+    },
+    {
+      "question": "Do you offer app maintenance and support services?",
+      "answer": "Yes, we provide ongoing maintenance, updates, and support to ensure smooth operation."
+    },
+    {
+      "question": "Do you assist with software integration and data migration?",
+      "answer": "Yes, we handle software integrations, legacy migrations, and third-party API connections."
+    }
+  ],
+  "offices": {
+    "logo": "/assets/home/globaloffices/app-wht-logo-new.svg",
+    "tagline": "Most trusted Mobile App Consulting Company on Clutch",
+    "locations": [
+      {
+        "country": "INDIA",
+        "address": "B-25, Sector 58, Noida- 201301, Delhi - NCR, India",
+        "image": "/assets/home/globaloffices/hq-india.svg"
+      },
+      {
+        "country": "USA",
+        "address": "79, Madison Ave, Manhattan, NY 10001, USA",
+        "image": "/assets/home/globaloffices/hq-india.svg"
+      },
+      {
+        "country": "Australia",
+        "address": "96 Cleveland Street, Stones Corner, QLD 4120",
+        "image": "/assets/home/globaloffices/hq-india.svg"
+      },
+      {
+        "country": "UK",
+        "address": "3rd Floor, 86-90 Paul Street EC2A 4NE, London, UK",
+        "image": "/assets/home/globaloffices/hq-india.svg"
+      },
+      {
+        "country": "UAE",
+        "address": "Tiger Al Yarmook Building, 13th floor B-block, Al Nahda St - Sharjah",
+        "image": "/assets/home/globaloffices/hq-india.svg"
+      },
+      {
+        "country": "CANADA",
+        "address": "Suite 3810, Bankers Hall West, 888 - 3rd Street Sw, Calgary Alberta",
+        "image": "/assets/home/globaloffices/hq-india.svg"
       }
     ]
   }

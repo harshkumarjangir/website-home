@@ -1,6 +1,7 @@
 import homeData from "@/data/homeData.json";
 import { Sparkles } from "lucide-react";
 import Image from "next/image";
+import Link from "next/link";
 
 const AIAdvisorySection = () => {
     const { aiAdvisorySection } = homeData;
@@ -19,16 +20,16 @@ const AIAdvisorySection = () => {
                         </h3>
                     </div>
                     <p className="text-gray-300 mb-6">{aiAdvisorySection.description}</p>
-                    <a
+                    <Link
                         href={aiAdvisorySection.buttonUrl}
                         className="inline-block bg-white text-black font-medium px-6 py-3 rounded-lg hover:bg-gray-200 transition"
                     >
                         {aiAdvisorySection.buttonText}
-                    </a>
+                    </Link>
                 </div>
 
                 {/* Right image */}
-                <div className="md:w-1/2">
+                <div className="max-md:hidden md:w-1/2">
                     <Image
                         src={aiAdvisorySection.image}
                         alt={aiAdvisorySection.title}
